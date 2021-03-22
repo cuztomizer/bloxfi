@@ -1,0 +1,12 @@
+{
+  "name": "BloxFI",
+  "displayName": "BloxFI",
+  "expo": {
+    "name": "BloxFI",
+    "slug": "BloxFI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
